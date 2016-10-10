@@ -1,1 +1,2 @@
-github "emaloney/CleanroomASL" "swift3"
+github "egv/CleanroomASL" ~> 3.0.0
+
